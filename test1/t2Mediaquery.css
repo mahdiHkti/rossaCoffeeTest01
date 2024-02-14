@@ -1,0 +1,13 @@
+@media screen and (max-width:700px){
+    
+    .mainMenu{
+        display: none;
+    }
+
+    .hiddenMenuBtn{
+        display: flex;
+    }
+    
+
+}
+
